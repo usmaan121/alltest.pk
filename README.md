@@ -4,7 +4,12 @@
 
 **Link** : https://alltest-pk.vercel.app/
 
-**Note** : index.html is the Homepage/Mainpage/Starting page.
+**Note** : `index.html` is the Homepage/Mainpage/Starting page.
+
+# Programming Languages:
+ - Html
+ - CSS
+ - Javascript
 
 # Features:
  - You can add as many questions as you want to add.
