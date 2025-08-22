@@ -4,6 +4,8 @@
 
 **Link** : https://alltest-pk.vercel.app/
 
+**Note** : index.html is the Homepage/Mainpage/Starting page.
+
 # Features:
  - You can add as many questions as you want to add.
  - Shows result at the end of Quiuz.
